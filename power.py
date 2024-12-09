@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+```
+therealhoodboy. (2024). Raspberry Pi Power Monitor [Software]. GitHub. https://github.com/therealhoodboy/raspberry-pi-power-monitor/blob/main/power.py
+```
+
 import curses
 import subprocess
 import re
